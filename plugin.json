@@ -1,0 +1,7 @@
+{
+  "name": "shellcheck",
+  "description": "Linting for shell scripts, using Shellcheck",
+  "author": "Operable, Inc.",
+  "public": true,
+  "requirements": ["docker"]
+}
